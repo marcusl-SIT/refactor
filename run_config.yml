@@ -1,0 +1,9 @@
+eda_on:
+  True
+train_path:
+  /path/to/train.csv
+test_path:
+  /path/to/test.csv
+drop_cols:
+  - col1
+  - col2
